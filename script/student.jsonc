@@ -1,0 +1,14 @@
+//Json file(javascript object notation)
+
+[
+    {
+        "Student": "Solomon",
+        "age": 25,
+        "color": "black"
+    },
+    {
+        "Student": "Somto",
+        "age": 22,
+        "color": "white"
+    }
+]
